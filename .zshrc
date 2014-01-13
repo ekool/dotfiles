@@ -47,8 +47,3 @@ export CLICOLOR=1
 export LSCOLORS=Gxfxdxdxdxdxdxcxcxxfxf
 # Customize to your needs...
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ekool/.gem/ruby/1.8/bin:/opt/nginx/sbin
-
-cat ~/ansize/fflogo.ans
-
-source "$HOME/.homesick/repos/homeshick/homeshick.sh"
-fpath=($HOME/.homesick/repos/homeshick/completions $fpath)
