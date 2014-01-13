@@ -1,5 +1,5 @@
 #!/bin/sh
-rm -r .vim .vimrc .tmux.conf .gitconfig .zshrc
+rm -r ~/.vim ~/.vimrc ~/.tmux.conf ~/.gitconfig ~/.zshrc ~/.bashrc ~/.oh-my-zsh ~/.local
 ln -s ~/.dotfiles/.vimrc ~/.vimrc
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.bashrc ~/.bashrc
